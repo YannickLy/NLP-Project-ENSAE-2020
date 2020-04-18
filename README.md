@@ -4,12 +4,12 @@
 
 1. First you need to pip install tensorflow==1.15 and pip install tensorflow-gpu==1.15 in Google Colab environment because by default Google Colab uses tensorflow 2.X (some changes on version 2.X cause problems with our code)
 
-2. Open the notebook with Google Colab and run (it can take a hour to run the notebook)
+2. Open the notebook with Google Colab and run it (it may take an hour to run the notebook)
 
 ## Authors
 
-* **Eleonore Blanchard**
-* **Yannick Ly**
+* Eleonore Blanchard
+* Yannick Ly
 
 
  
